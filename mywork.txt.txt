@@ -1,0 +1,17 @@
+My associate id:
+845032
+team members:
+844989,845165,845143
+Team lead:
+845165
+My Role in team:
+1. To develop homepage and contact us page
+My development files:
+1. index.html
+2. contactus.html
+I was strong in:
+1.HTML
+2.bootstrap
+I was weak in:
+1.javascript
+2. validations
